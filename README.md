@@ -19,7 +19,7 @@ This repository showcases a comprehensive modal analysis project on a metallic p
 ## Tools Used
 
 - **MATLAB**: All data processing, analysis, and visualization were performed using MATLAB, showcasing its powerful capabilities for system identification and signal processing.
-- **FEM Software (e.g., Abaqus, ANSYS, etc.)**: Used for the initial finite element modeling of the plate.
+- **FEM Software (Abaqus)**: Used for the initial finite element modeling of the plate.
 
 ## Who is this repository for
 
